@@ -21,6 +21,10 @@ This package provides manga sources.
 
     Coming soon...
 
+## Contribution
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for the guidelines.
+
 ## Disclaimer
 
 The developers of this application have no affiliation
