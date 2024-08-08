@@ -10,7 +10,6 @@ This package provides manga sources.
 
     ```yaml
     dependencies:
-      ...
       asaverse_parsers:
         git:
           url: https://github.com/i4ox/asaverse_parsers.git
