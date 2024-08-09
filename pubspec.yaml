@@ -1,7 +1,7 @@
 name: asaverse_parsers
-description: A starting point for Dart libraries or applications.
-version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+description: Manga parsers library for Dart and Flutter
+version: 1.0.1
+repository: https://github.com/i4ox/asaverse_parsers.git
 
 environment:
   sdk: ^3.5.0

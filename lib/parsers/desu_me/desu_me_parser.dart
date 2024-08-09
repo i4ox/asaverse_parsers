@@ -47,8 +47,6 @@ final class DesuMeParser extends MangaParser {
     // Create list of manga models
     List<Manga> list = [];
 
-    // Get all tags
-
     for (int i = 0; i < 20; i++) {
       // Get the manga
       final manga = json[i];
@@ -88,7 +86,7 @@ final class DesuMeParser extends MangaParser {
     // Parse the elements with tags
     final liElements = root.querySelectorAll('li');
 
-    // Create the map with tags
+    // Create the set with tags
     final Set<Tag> tags = {};
     for (Element li in liElements) {
       final input = li.querySelector('input');
